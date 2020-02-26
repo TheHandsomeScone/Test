@@ -3,7 +3,8 @@ body{
 	background-image: url("abstract.gif");
 	background-repeat: no-repeat;
 	margin: auto;
-
+	background-size: cover;
+	background-attachment: fixed;
 }
 #content {
 	margin: auto;
