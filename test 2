@@ -2,25 +2,19 @@
 body{
 	background-image: url("abstract.gif");
 	background-repeat: no-repeat;
-	background-color: #ccccc;
-	background-size: 100%;
-	
-}
-img{
-	width: 1%;
+	margin: auto;
+
 }
 #content {
-	width: 90%;
 	margin: auto;
 	color: white;
-	
 	
 }
 
 #text{
 	background-color: none;
 	color: white;
-	
+	margin: auto;
 }
 #list{
 	background-color: none;
@@ -30,11 +24,6 @@ img{
 	width: 100%;
 }
 
-#Fredag{
-	background-color: none;
-	
-	
-}
 
 
 
