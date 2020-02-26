@@ -2,8 +2,7 @@
 body{
 	background-image: url("abstract.gif");
 	background-repeat: no-repeat;
-	margin: auto;
-	background-size: cover;
+	background-size: 100% 100%;
 	background-attachment: fixed;
 }
 #content {
