@@ -10,7 +10,7 @@ img{
 	width: 1%;
 }
 #content {
-	width: 50%;
+	width: 90%;
 	margin: auto;
 	color: white;
 	
@@ -20,6 +20,7 @@ img{
 #text{
 	background-color: none;
 	color: white;
+	
 }
 #list{
 	background-color: none;
